@@ -1,0 +1,20 @@
+# Python environments
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Downloaded datasets
+clothing-dataset-small/
+homework/data/
+homework/data.zip
+
+# Model checkpoints
+*.h5
+*.keras
+*.weights.h5
+
+# Temporary training artifacts
+*.pkl
+
+# Temporary GitHub API output
+github_files.json
